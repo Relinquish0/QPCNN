@@ -31,11 +31,11 @@ Change your name to something you recognize, and change the address in your code
 
 ```markdown
 
-| data_bell_uncorrelated_train      | The pretraining section is a training set |
-| data_bell_uncorrelated_validation | The test set for the pretraining section  |
-| data_bell_correlated_train        | training section of the training set      |
-| data_bell_correlated_validation   | The test set for the training section     |
-| data_bell_correlated_output       | training part of the deduction set        |
+| data_bell_uncorrelated_train      | The training set for the pretraning phase |
+| data_bell_uncorrelated_validation | The test set for the pretraining phase    |
+| data_bell_correlated_train        | The training set for the traning phase    |
+| data_bell_correlated_validation   | The test set for the training phase       |
+| data_bell_correlated_output       | The output set for the output phase       |
 ```
 Then open their respective data_preset runs, and note the comments in the code. "measured" means the measured result $p^m$ after they have done N=100,000 tests.
 
