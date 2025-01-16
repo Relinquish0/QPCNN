@@ -3,8 +3,6 @@ This is to serve the paper [Building a human-like observer using deep learning i
 The whole procedure is divided into three steps——dataset generation, QPCNN and output. It is worth noting that these different codes correspond to different steps, so there are some minor changes that need to be made in different processes, all of which are mentioned in the comments
 In addition, each piece of code needs to change the corresponding address to make sure it works correctly.
 
-Authors: Jinjun Zeng (zengjj25@mail2.sysu.edu.cn)
-
 Lenovo pro16 2021 Xiaoxin
 
 Python 3.11.5
