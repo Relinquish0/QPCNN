@@ -11,11 +11,13 @@ Python 3.11.5
 
 Pytorch 2.0.1
 
+```markdown
 DriverVersion    Name
 30.0.13002.7003  AMD Radeon(TM) Graphics
 31.0.15.3699     NVIDIA GeForce GTX 1650
+```
 
-Update time: Jan 16th 2025
+Update time: Jan 16th 2025.
 A more simplified way to run it is being written...
 # dataset generation
 Here is the data generation section, divided into Correlated parts and Uncorrelated parts.
