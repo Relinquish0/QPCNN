@@ -15,6 +15,8 @@ DriverVersion    Name
 30.0.13002.7003  AMD Radeon(TM) Graphics
 31.0.15.3699     NVIDIA GeForce GTX 1650
 
+Update time: Jan 16th 2025
+A more simplified way to run it is being written...
 # dataset generation
 Here is the data generation section, divided into Correlated parts and Uncorrelated parts.
 Correlated parts is used to generate the dataset for training phase and output phase
